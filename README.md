@@ -65,9 +65,4 @@ The project includes:
 # 📬 Contact
 For queries or collaboration, feel free to connect via GitHub.
 
-If you want, I can also generate:
-- requirements.txt
-- A GitHub project banner
-- A professional project logo
-- A short tagline for your repo
-Just tell me what you want next.
+
